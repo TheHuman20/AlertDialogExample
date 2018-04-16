@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlertDialogExample</string>
+    <string name="exit">Exit</string>
+    <string name="save_data">Save</string>
+    <string name="saved">Saved</string>
+    <string name="alert_title">Alert!!!</string>
+    <string name="alert_msg">Alert message...</string>
+    <string name="yes">Yes</string>
+</resources>
