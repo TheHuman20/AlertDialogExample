@@ -13,7 +13,6 @@ import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
 
-    //final int DIALOG_EXIT = 1;
     TextView mTW;
 
     @Override
